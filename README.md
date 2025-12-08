@@ -33,25 +33,6 @@ I work with Kubernetes, Terraform, AWS, Jenkins, Docker, and modern DevOps tooli
 [![Email](https://img.shields.io/badge/Email-D14836.svg?logo=gmail&logoColor=white)](mailto:priyapawar1377@gmail.com)
 
 
-## 🏆 GitHub Achievements  
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=priyakalidaspawar&theme=tokyonight&no-frame=true&row=1&column=6" />
-</p>
-
----
-
-## 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=priyakalidaspawar&show_icons=true&theme=tokyonight" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=priyakalidaspawar&theme=tokyonight" height="180" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyakalidaspawar&layout=compact&theme=tokyonight" />
-</p>
-
----
-
 ## 🛠 Tech Stack  
 ### **Languages & Core Skills**
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -82,6 +63,22 @@ I work with Kubernetes, Terraform, AWS, Jenkins, Docker, and modern DevOps tooli
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 
 ---
+## 📊 GitHub Stats:
+
+<!-- Main Stats -->
+<p align="center">
+  <img src="https://github-readme-stats-git-masterrk.vercel.app/api?username=priyakalidaspawar&theme=dark&show_icons=true&count_private=true" />
+</p>
+
+<!-- Streak Stats -->
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=priyakalidaspawar&theme=dark&hide_border=false" />
+</p>
+
+<!-- Top Languages -->
+<p align="center">
+  <img src="https://github-readme-stats-git-masterrk.vercel.app/api/top-langs/?username=priyakalidaspawar&theme=dark&layout=compact" />
+</p>
 
 <img align="right" alt="Coding" width="350" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
