@@ -56,7 +56,8 @@ Email me at: [priyapawar1377@gmail.com](mailto:priyapawar1377@gmail.com)
  
  
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=priyakalidaspawar&limit=5&theme=flat&combine_all_yearly_contributions=true)
+[![Top Contributed Repo](https://github-readme-stats.vercel.app/api/top-langs/?username=priyakalidaspawar)](https://github.com/anuraghazra/github-readme-stats)
+
  
 ---
  
