@@ -63,22 +63,10 @@ I work with Kubernetes, Terraform, AWS, Jenkins, Docker, and modern DevOps tooli
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 
 ---
+<img align="right" alt="Coding" width="350" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+
 ## 📊 GitHub Stats:
 
-<!-- Main Stats -->
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrk.vercel.app/api?username=priyakalidaspawar&theme=dark&show_icons=true&count_private=true" />
-</p>
+![](https://nirzak-streak-stats.vercel.app/?user=priyakalidaspawar&theme=light&hide_border=false)
 
-<!-- Streak Stats -->
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=priyakalidaspawar&theme=dark&hide_border=false" />
-</p>
-
-<!-- Top Languages -->
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrk.vercel.app/api/top-langs/?username=priyakalidaspawar&theme=dark&layout=compact" />
-</p>
-
-<img align="right" alt="Coding" width="350" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
