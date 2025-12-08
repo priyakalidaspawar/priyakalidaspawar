@@ -28,13 +28,10 @@ I work with Kubernetes, Terraform, AWS, Jenkins, Docker, and modern DevOps tooli
 
 
 
-### 📩 Reach Me  
-📧 **Email:** priyapawar1377@gmail.com  
-
----
-
 ## 🌐 Socials  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/priyapawar05)
+[![Email](https://img.shields.io/badge/Email-D14836.svg?logo=gmail&logoColor=white)](mailto:priyapawar1377@gmail.com)
+
 
 ---
 
