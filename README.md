@@ -14,7 +14,7 @@ I'm open to collaborating on Kubernetes projects, especially those involving con
 DevOps, Cloud Computing (AWS), Kubernetes, Python, Linux System Administration, Git, Docker, Terraform, Jenkins, Bash Scripting, MongoDB, MySQL, HTML, CSS, Java, and C Programming.  
  
 📫 **How to Reach Me**  
-Email me at: [abhijeetraj646@gmail.com](mailto:abhijeetraj646@gmail.com)
+Email me at: [priyapawar1377@gmail.com](mailto:priyapawar1377@gmail.com)
  
 ---
  
@@ -51,16 +51,16 @@ Email me at: [abhijeetraj646@gmail.com](mailto:abhijeetraj646@gmail.com)
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
  
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=AbhijeetRaj646&theme=flat&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=AbhijeetRaj646&theme=flat&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=priyakalidaspawar&theme=flat&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=priyakalidaspawar&theme=flat&hide_border=false)<br/>
  
  
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=AbhijeetRaj646&limit=5&theme=flat&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=priyakalidaspawar&limit=5&theme=flat&combine_all_yearly_contributions=true)
  
 ---
  
-[![](https://visitcount.itsvg.in/api?id=AbhijeetRaj646&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=priyakalidaspawar&icon=0&color=0)](https://visitcount.itsvg.in)
  
 ### 🌱 My GitHub Journey 
-![Snake animation](https://raw.githubusercontent.com/AbhijeetRaj646/AbhijeetRaj646/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/priyakalidaspawar/priyakalidaspawar/output/github-contribution-grid-snake.svg)
