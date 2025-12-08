@@ -21,24 +21,20 @@ I work with Kubernetes, Terraform, AWS, Jenkins, Docker, and modern DevOps tooli
 
 ### 💬 Ask Me About
 
-<p align="left">
-  <img src="https://img.shields.io/badge/DevOps-0A66C2?style=for-the-badge&logo=devops&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/CI%2FCD-4B0082?style=for-the-badge&logo=githubactions&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white" />
-  <img src="https://img.shields.io/badge/Databases-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/C_Language-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
-</p>
+- 🚀 **DevOps & CI/CD**
+- ☁️ **AWS**
+- 📦 **Docker** • **Kubernetes**
+- 🏗️ **Terraform**
+- 🔧 **Jenkins**
+- 🐧 **Linux**
+- 🐍 **Python**
+- 📘 **Git**
+- 💾 **Databases**
+- 🐚 **Bash Scripting**
+- 🌐 **HTML/CSS**
+- ☕ **Java**
+- 🔵 **C Programming**
+
 
 
 ### 📩 Reach Me  
