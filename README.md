@@ -65,37 +65,3 @@ DevOps • AWS • Kubernetes • Docker • Terraform • Jenkins • Linux •
 
 <img align="right" alt="Coding" width="350" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-## 📊 GitHub Stats  
-## 📊 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=priyakalidaspawar&show_icons=true&theme=default&hide_border=false&count_private=true)
-<br/>
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=priyakalidaspawar&theme=default&hide_border=false)
-<br/>
-
-## 🔝 Top Contributed Repo  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=priyakalidaspawar&layout=compact&theme=default)
-
----
-
-## 👀 Profile Views  
-[![](https://visitcount.itsvg.in/api?id=priyakalidaspawar&icon=0&color=0)](https://visitcount.itsvg.in)
-
-## 🐍 GitHub Journey  
-![Snake animation](https://raw.githubusercontent.com/priyakalidaspawar/priyakalidaspawar/output/github-contribution-grid-snake.svg)
-
-
----
-
-## 🔝 Most Used Languages  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=priyakalidaspawar&layout=compact&theme=default)
-
----
-
-## 🐍 GitHub Activity Snake  
-![Snake animation](https://raw.githubusercontent.com/priyakalidaspawar/priyakalidaspawar/output/github-contribution-grid-snake.svg)
-
----
-
-## 👀 Profile Views  
-[![](https://visitcount.itsvg.in/api?id=priyakalidaspawar&icon=0&color=0)](https://visitcount.itsvg.in)
