@@ -21,19 +21,10 @@ I work with Kubernetes, Terraform, AWS, Jenkins, Docker, and modern DevOps tooli
 
 ### 💬 Ask Me About
 
-- 🚀 **DevOps & CI/CD**
-- ☁️ **AWS**
-- 📦 **Docker** • **Kubernetes**
-- 🏗️ **Terraform**
-- 🔧 **Jenkins**
-- 🐧 **Linux**
-- 🐍 **Python**
-- 📘 **Git**
-- 💾 **Databases**
-- 🐚 **Bash Scripting**
-- 🌐 **HTML/CSS**
-- ☕ **Java**
-- 🔵 **C Programming**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,kubernetes,docker,terraform,jenkins,linux,python,git,bash,mysql,html,css,java,c" />
+</p>
+
 
 
 
