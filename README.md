@@ -6,8 +6,7 @@
 
 ## 🚀 About Me  
 
-I'm a DevOps and Cloud enthusiast passionate about automation, scalable deployments, and building cloud-native workflows.  
-I work with Kubernetes, Terraform, AWS, Jenkins, Docker, and modern DevOps tooling to streamline engineering processes.
+I'm a DevOps Engineer passionate about automation, cloud-native workflows, and scalable deployments, experienced in CI/CD, Kubernetes, Terraform, AWS, Azure DevOps, Jenkins, and Docker to streamline engineering processes and improve release reliability.
 
 ### 🌱 Currently Learning  
 - Terraform (IaC)
